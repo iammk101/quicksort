@@ -1,4 +1,5 @@
-/* C++ implementation of QuickSort */
+// C++ implementation of QuickSort
+
 #include <bits/stdc++.h>
 // #include <algorithm.h>
 using namespace std;
@@ -83,3 +84,4 @@ int main()
 }
 
 // This code is contributed by SHAKTI
+// End of the program
